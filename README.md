@@ -42,7 +42,7 @@ propostas pelo professor em sala de aula.
 	<img src="assets/candy.png" alt="candy" width="400"/>
 </div>
 
-- *Candy*
+- *Jump Game*
 <div align="center">
 	<img src="assets/jumpGame.png" alt="candy" width="400"/>
 </div>
