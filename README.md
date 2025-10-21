@@ -22,12 +22,13 @@ propostas pelo professor em sala de aula.
 | -- | -- | -- |
 | [GasStation](https://leetcode.com/problems/gas-station/description/) | [gas_station.py](https://github.com/projeto-de-algoritmos-2025/Greed-D55/tree/main/gas_station.py) | Média |
 | [Candy](https://leetcode.com/problems/candy/) | [candy.py](https://github.com/projeto-de-algoritmos-2025/Greed-D55/tree/main/candy.py) | Difícil |
+| [JumpGame](https://leetcode.com/problems/jump-game/description/) | [jumpGame.py](https://github.com/projeto-de-algoritmos-2025/Greed-D55/tree/main/jumpGame.py) | Média |
 
 
 ## Vídeo
 |Vídeo de explicação|
 |--|
-| [Clique aqui]() |
+| [Clique aqui](https://youtu.be/qoRpstJjjG4) |
 
 
 ## Screenshots
@@ -39,6 +40,11 @@ propostas pelo professor em sala de aula.
 - *Candy*
 <div align="center">
 	<img src="assets/candy.png" alt="candy" width="400"/>
+</div>
+
+- *Candy*
+<div align="center">
+	<img src="assets/jumpGame.png" alt="candy" width="400"/>
 </div>
 
 
